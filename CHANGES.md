@@ -5,13 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
  
-## [Unreleased] - 2021-08-01
+## [Unreleased] - 2021-08-17
  
 Here we keep track of items that are being developed, but haven't been incorporated
 into the latest release.
  
 ### Added
- 
+
+- Example of User Story template (xlsx) into the Planning folder
+- Example of Project Charter (docx) into the Envisioning folder
+
 ### Changed
  
 ### Fixed
